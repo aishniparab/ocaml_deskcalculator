@@ -1,0 +1,30 @@
+head	1.1;
+access;
+symbols;
+locks;
+comment	@# @;
+
+
+1.1
+date	2016.09.30.23.11.47;	author -;	state -;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.1
+log
+@-
+@
+text
+@Source for this book:
+
+<A HREF=http://greenteapress.com/thinkocaml/>
+How to Think Like a (Functional) Programmer
+(http://greenteapress.com/thinkocaml/)
+</A>
+
+@
